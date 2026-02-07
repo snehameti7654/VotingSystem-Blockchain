@@ -1,6 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import { BrowserProvider } from 'ethers';
-import VotingStatus from './components/VotingStatus';
+import  { useState, useEffect } from 'react';
 import AddCandidateForm from './components/AddCandidateForm';
 import CandidateList from './components/CandidateList';
 import ResetCandidates from './components/ResetCandidates';
